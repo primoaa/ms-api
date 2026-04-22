@@ -1,0 +1,75 @@
+{
+  "timestamp": "2026-04-22T17:05:34.003Z",
+  "source": {
+    "config": {
+      "news": "لا تدع المباريات ومشاهدة القنوات تلهيك عن ذكر الله",
+      "telegram": "https://t.me/mandoosports",
+      "facebook": "https://www.facebook.com/groups/315358171976105",
+      "updateLink": "https://raw.githubusercontent.com/mandoosports/mandosports/main/MANDO%20SPORTS%20V45.rar"
+    },
+    "hash": "772953b5457fdae7e9fd381f083b8c39"
+  },
+  "channels": {
+    "bein1": {
+      "name": "beIN Sports 1",
+      "url": "",
+      "type": "m3u"
+    },
+    "bein2": {
+      "name": "beIN Sports 2",
+      "url": "",
+      "type": "m3u"
+    },
+    "bs3": {
+      "name": "beIN Sports 3",
+      "url": "",
+      "type": "m3u"
+    },
+    "sportar": {
+      "name": "Arabic Sports",
+      "url": "",
+      "type": "m3u"
+    },
+    "sporten": {
+      "name": "English Sports",
+      "url": "",
+      "type": "m3u"
+    },
+    "sportth": {
+      "name": "Sports Extra",
+      "url": "",
+      "type": "m3u"
+    },
+    "arabic": {
+      "name": "Arabic Channels",
+      "url": "",
+      "type": "m3u"
+    },
+    "aflam": {
+      "name": "Movies",
+      "url": "",
+      "type": "m3u"
+    },
+    "series": {
+      "name": "Series",
+      "url": "",
+      "type": "m3u"
+    },
+    "islam": {
+      "name": "Islamic",
+      "url": "",
+      "type": "m3u"
+    },
+    "bmo": {
+      "name": "Extra",
+      "url": "",
+      "type": "m3u"
+    },
+    "time": {
+      "name": "Time Shift",
+      "url": "",
+      "type": "m3u"
+    }
+  },
+  "lastUpdated": "2026-04-22T17:05:34.003Z"
+}
